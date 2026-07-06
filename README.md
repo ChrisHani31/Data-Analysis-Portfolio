@@ -1,6 +1,6 @@
 ## Hi, I’m Chris👋
 <br>
-I’m building my portfolio to show the projects I created during my Data Analysis course.
+Below you will find a variety of projects from my Data Analysis course that showcase what I've learnt. There will also a culmination of passion porjects as well to view.
 
 ## What I have learnt:
 - Excel and data basics     - How to take raw data and format it into simple visual tables and graphs.

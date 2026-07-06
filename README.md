@@ -16,7 +16,8 @@ Below you will find a variety of projects from my Data Analysis course that show
 <br>
 PivotCharts and Slicers let us turn large datasets into clear visual insights. We can quickly switch between categories, age groups or product types to see how buying behaviour changes. This makes it easy to spot trends at a glance. For example, the chart shows that Young Adult males buy mostly Clothing and Beauty products, but switching the age group to Seniors reveals a sharp rise in Electronics purchases. These tools help us compare segments instantly and understand how different customers behave.
 
-<br>
+
+
 - [Tableau]  - 
 - [Power BI] - 
 - [SQL]      -

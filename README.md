@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I’m Chris👋
+<br>
+I’m building my portfolio to show the projects I created during my Data Analysis course.
 
-<!--
-**ChrisHani31/ChrisHani31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I have learnt:
+- Excel and data basics - How to take raw data and format it into simple visual tables and graphs.
+- SQL / MySQL Workbench - Database structuring, creating, reading, updating & deleting records.
+- Tableau / Power BI    - Navigation & features & functions of both visualisation tools. 
+- Python / Google Colab - Using simple syntax to analyse & automate.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects I have completed:
+- [Excel]    -  
+- [Tableau]  - 
+- [Power BI] - 
+- [SQL]      -
+- [Python]   -

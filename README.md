@@ -1,6 +1,6 @@
 <!-- Chris Data Analysis Portfolio Banner -->
 <p align="center">
-  <img src="Documents/Github banner.2.png" alt="Chris Data Analysis Portfolio Banner" width="100%">
+  <img src="images/github-banner.png" alt="Chris Data Analysis Portfolio Banner" width="100%">
 </p>
 
 ### Data Analysis Portfolio

@@ -1,7 +1,6 @@
-<!-- Chris Data Analysis Portfolio Banner -->
-<p align="center">
-  <img src="images/github-banner.png" alt="Chris Data Analysis Portfolio Banner" width="100%">
-</p>
+<!-- Slim Blue Creative Data Analyst Banner (Circular Profile Version) -->
+<img src="https://copilot.microsoft.com/th/id/BCO.129eea8d-889d-4161-944f-5a38e44c53a6.png" alt="Chris Data Analyst Banner" width="100%">
+
 
 ### Data Analysis Portfolio
 

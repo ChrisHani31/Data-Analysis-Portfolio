@@ -25,6 +25,7 @@ LinkedIn: [Chris Njoroge](https://www.linkedin.com/in/chris-njoroge-3b1197174/) 
 <img src="https://img.shields.io/badge/-?logo=clojure&style=flat&logoColor=white" height="22"> <!-- CLO-Set -->
 </p>
 
+
 Excel • Python • SQL • Tableau • Power BI • SAP • PLM • CLO‑Set • GitHub • Data Cleaning • Dashboarding • Brand Strategy
 
 <br>

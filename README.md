@@ -20,9 +20,9 @@ LinkedIn: [Chris Njoroge](https://www.linkedin.com/in/chris-njoroge-3b1197174/) 
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" height="22">
 <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat-square" height="22">
 <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square" height="22">
-<img src="https://img.shields.io/badge/-?logo=google-cloud&logoColor=white&style=flat" height="22">
-<img src="https://img.shields.io/badge/-?logo=sap&logoColor=0FAAFF&style=flat" height="22">
-<img src="https://img.shields.io/badge/-?logo=clo&logoColor=white&style=flat" height="22">
+<img src="https://img.shields.io/badge/-?logo=sap&style=flat&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/-?logo=google-cloud&style=flat&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/-?logo=clojure&style=flat&logoColor=white" height="22">
 </p>
 
 Excel • Python • SQL • Tableau • Power BI • SAP • PLM • CLO‑Set • GitHub • Data Cleaning • Dashboarding • Brand Strategy

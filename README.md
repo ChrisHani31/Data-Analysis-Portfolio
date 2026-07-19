@@ -11,7 +11,6 @@ An aspiring Data Analyst who's looking to join this ever-growing industry and pu
 
 LinkedIn: [Chris Njoroge](https://www.linkedin.com/in/chris-njoroge-3b1197174/)   •  E-mail: chrisnjoroge61@gmail.com
 
-<br>
 
 ## 🛠️ Tools & Skills  
 Excel • Python • SQL • Tableau • Power BI • SAP • PLM • CLO‑Set • GitHub • Data Cleaning • Dashboarding • Brand Strategy

@@ -15,12 +15,66 @@ An aspiring Data Analyst who's looking to join this ever-growing industry and pu
 <br>
 
 
-## ✨ The Programs I have learnt:
-- 📈 **Excel and data basics**     - How to take raw data and format it into simple visual tables and graphs.
-- 📊 **SQL/ My SQL Workbench**  - Database structuring, creating, reading, updating & deleting records.
-- 📔 **Tableau / Power BI**       - Navigation & features & functions of both visualisation tools. 
-- 🐍 **Python / Google Colab** - Using simple syntax to analyse & automate.
-<br>
+## 🛠️ Tools & Skills  
+Excel • Python • SQL • Tableau • Power BI • SAP • PLM • CLO‑Set • GitHub • Data Cleaning • Dashboarding • Brand Strategy
+
+## ✨ The Programs I Have Learnt
+
+### 📊 Excel & Data Basics  
+Turning raw datasets into clear tables, PivotCharts, and interactive dashboards.  
+Skills include: formatting, formulas, PivotTables, slicers, and trend analysis.
+
+### 🧩 SQL / MySQL Workbench  
+Building and querying databases using **CREATE**, **SELECT**, **UPDATE**, **DELETE**, joins, filtering, and aggregation.  
+Used for campaign analysis, customer insights, and structured data exploration.
+
+### 📈 Tableau / Power BI  
+Creating interactive dashboards, exploring visualisation techniques, and presenting insights clearly.  
+Experience with filters, parameters, calculated fields, and storytelling dashboards.
+
+### 🐍 Python / Google Colab  
+Using Python for data cleaning, automation, and analysis.  
+Libraries: **pandas**, **numpy**, **matplotlib**, **seaborn**.  
+Projects include segmentation, trend analysis, and simple automation scripts.
+
+---
+
+## 📁 Projects I Have Completed
+
+### 📊 Excel — Retail Sales Dashboard  
+A PivotTable‑driven dashboard exploring buying patterns across age groups.  
+Key insights:  
+- Adults aged **35–64** showed the highest purchase numbers  
+- Adults aged **25–34** followed closely  
+- Youth under **25** had the lowest totals  
+
+👉 **View Project:** (add link once repo is created)
+
+---
+
+### 🐍 Python — Customer Segmentation  
+Using pandas + scikit‑learn to cluster customer groups and identify behavioural patterns.  
+Includes data cleaning, EDA, clustering, and visualisation.
+
+👉 **View Project:** (add link once repo is created)
+
+---
+
+### 🗂️ SQL — Marketing Campaign Analysis  
+A collection of SQL queries exploring engagement, conversions, and ROI.  
+Includes joins, aggregations, filtering, and insight summaries.
+
+👉 **View Project:** (add link once repo is created)
+
+---
+
+### 📈 Tableau — Gen Z Behaviour Dashboard  
+An interactive dashboard visualising student trends, preferences, and engagement.  
+Built using filters, parameters, and custom visuals.
+
+👉 **View Project:** (add link once repo is created)
+
+---
 
 
 ## Projects I have completed:

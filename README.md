@@ -8,7 +8,7 @@
 <br>
 An aspiring Data Analyst who's looking to join this ever-growing industry and pull up my sleeves on day one. Below you will find a variety of projects from my Data Analysis course that showcase what I've learnt. There will also be a culmination of passion porjects as well to view.
 
-Check out my [LinkedIn] to connect - (https://www.linkedin.com/in/chris-njoroge-3b1197174/) 
+[Check out my LinkedIn] to connect(https://www.linkedin.com/in/chris-njoroge-3b1197174/) 
 
 ## ✨ What I've learnt:
 - 📈 **Excel and data basics**     - How to take raw data and format it into simple visual tables and graphs.

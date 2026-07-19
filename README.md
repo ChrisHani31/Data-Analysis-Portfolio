@@ -8,6 +8,7 @@
 An aspiring Data Analyst who's looking to join this ever-growing industry and pull up my sleeves on day one. Below you will find a variety of projects from my Data Analysis course that showcase what I've learnt. There will also be a culmination of passion projects to view.
 
  ## Discover more about me, let's have a chat 👇
+ 
 
 LinkedIn: [Chris Njoroge](https://www.linkedin.com/in/chris-njoroge-3b1197174/)   •  E-mail: chrisnjoroge61@gmail.com
 

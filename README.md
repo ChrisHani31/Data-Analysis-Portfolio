@@ -20,6 +20,7 @@ An aspiring Data Analyst who's looking to join this ever-growing industry and pu
 - 🐍 **Python / Google Colab** - Using simple syntax to analyse & automate.
 
 <br>
+
 ## Projects I have completed:
 - Excel    - This is an example of some data visuals in Excel of [Pivot Tables and graphs.](https://1drv.ms/x/c/da296227c5bf3081/IQAyR_7KvFqCSIRgOi6YH2HiASpUQgigvyGJBnWrJM2Qy7A?e=g9bFUd)
   

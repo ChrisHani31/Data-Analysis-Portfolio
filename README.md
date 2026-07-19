@@ -13,14 +13,13 @@ An aspiring Data Analyst who's looking to join this ever-growing industry and pu
 [LinkedIn](https://www.linkedin.com/in/chris-njoroge-3b1197174/)
 
 <br>
-
 ## ✨ The Programs I have learnt:
 - 📈 **Excel and data basics**     - How to take raw data and format it into simple visual tables and graphs.
 - 📊 **SQL/ My SQL Workbench**  - Database structuring, creating, reading, updating & deleting records.
 - 📔 **Tableau / Power BI**       - Navigation & features & functions of both visualisation tools. 
 - 🐍 **Python / Google Colab** - Using simple syntax to analyse & automate.
 
-
+<br>
 ## Projects I have completed:
 - Excel    - This is an example of some data visuals in Excel of [Pivot Tables and graphs.](https://1drv.ms/x/c/da296227c5bf3081/IQAyR_7KvFqCSIRgOi6YH2HiASpUQgigvyGJBnWrJM2Qy7A?e=g9bFUd)
   

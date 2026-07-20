@@ -24,7 +24,7 @@ LinkedIn: [Chris Njoroge](https://www.linkedin.com/in/chris-njoroge-3b1197174/) 
 
 ## 🌟 Skills
 
-SAP • PLM • CLO‑Set • GitHub • Data Cleaning • Dashboarding • Brand Strategy
+SAP • PLM • CLO‑Set • GitHub • Data Cleaning • Dashboarding • Brand Strategy • Presenting
 
 <br>
 

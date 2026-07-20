@@ -88,7 +88,9 @@ UK Industry Change Analysis
 👉 **View Project:** [To further explain](https://github.com/ChrisNjoroge/uk-industry-change-analysis)
 
 
-[UK Industry Change Map](uk-tableau-analysis.png)
+[UK Industry Change Map](uk-tableau-analysis.png) 
+
+![Screenshot](iuk-tableau-analysis.png)
 
 
 ---

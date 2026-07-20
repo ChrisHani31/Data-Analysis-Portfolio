@@ -67,7 +67,7 @@ Key insights:
 Using pandas + scikit‑learn to cluster customer groups and identify behavioural patterns.  
 Includes data cleaning, EDA, clustering, and visualisation.
 
-👉 **View Project:** (add link once repo is created)
+👉 **View Project:**
 
 ---
 
